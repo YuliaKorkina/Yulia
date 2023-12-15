@@ -8,9 +8,7 @@ Task*\out\artifacts\Task*_jar
 
 Task1
 
-C:\Users\Юля>java C:\Users\Юля\IdeaProjects\untitled1\src\Task1.java 
-
-13 7
+C:\Users\Юля>java C:\Users\Юля\IdeaProjects\untitled1\src\Task1.java 13 7
 
 17136125114103928
 
