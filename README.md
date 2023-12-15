@@ -3,6 +3,7 @@ Java<hr>
 Jar files: 
 
 Task*\out\artifacts\Task*_jar
+<hr>
 
 Пример:
 
