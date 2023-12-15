@@ -1,4 +1,4 @@
-Java
+Java<hr>
 
 Jar files: 
 
@@ -11,7 +11,7 @@ Task1
 C:\Users\Юля>java C:\Users\Юля\IdeaProjects\untitled1\src\Task1.java 13 7
 
 17136125114103928
-
+<hr>
 Task2
 
 C:\Users\Юля>java C:\Users\Юля\IdeaProjects\Task2\src\Task2.java C:\Users\Юля\IdeaProjects\Task2\file1.txt C:\Users\Юля\IdeaProjects\Task2\file2.txt
