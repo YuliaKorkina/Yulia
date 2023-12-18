@@ -23,3 +23,9 @@ C:\Users\Юля>java C:\Users\Юля\IdeaProjects\Task2\src\Task2.java C:\Users\
 0 - точка лежит на окружности
 
 2 - точка снаружи
+<hr>
+Task4
+
+C:\Users\Юля>java C:\Users\Юля\IdeaProjects\Task4\src\Task4.java C:\Users\Юля\IdeaProjects\Task4\file.txt
+
+16
